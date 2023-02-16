@@ -38,6 +38,9 @@
 
 ### Literature Review
 - [Spinning Coherent Interactive Fiction through Foundation Model Prompts](https://computationalcreativity.net/iccc22/wp-content/uploads/2022/06/ICCC-2022_2L_Calderwood-et-al..pdf)
+- [A Character-Centric Neural Model for Automated Story Generation](https://ojs.aaai.org/index.php/AAAI/article/view/5536)
+- [Dissertaion: automated story generation systems that improved coherence by leveraging various symbolic approaches for neural systems](https://smartech.gatech.edu/handle/1853/64643)
+- 
 
 
 ### Keywords
