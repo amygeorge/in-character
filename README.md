@@ -36,3 +36,6 @@
 - Ultimate goal is to generate situations for (somewhat) novel characters
   - Known tags trained on other characters used for new character 
 
+### Literature Review
+- [Spinning Coherent Interactive Fiction through Foundation Model Prompts](https://computationalcreativity.net/iccc22/wp-content/uploads/2022/06/ICCC-2022_2L_Calderwood-et-al..pdf)
+
