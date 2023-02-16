@@ -39,3 +39,6 @@
 ### Literature Review
 - [Spinning Coherent Interactive Fiction through Foundation Model Prompts](https://computationalcreativity.net/iccc22/wp-content/uploads/2022/06/ICCC-2022_2L_Calderwood-et-al..pdf)
 
+
+### Keywords
+#### Natural Language Processing (NLP), Automated Story Generation (ASG), 
