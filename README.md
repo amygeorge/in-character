@@ -1,6 +1,6 @@
 # in-character
 ##  Motivation: 
-#### Sometimes you want to read fan fiction about your favourite character(s) but you don't want to write it yourself. You want a specific set-up and you want the story to be canon accurate. 
+#### Sometimes you want to read fan fiction about your favourite character(s) but you don't want to write it yourself. You want a specific set-up and you want the story to be canon accurate. What NovelAI can generate would be a gold-standard.
 ## Goal: 
 #### Generate a short story (500 words) based on user input (character name and tags from AO3)
 
